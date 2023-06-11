@@ -47,7 +47,7 @@ With the proper use of datasets our model trained to improve the identification 
 * C#
 
 # Project Creator
-* Vivek Malam
+* Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
 
 
 
